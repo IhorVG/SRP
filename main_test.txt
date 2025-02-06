@@ -1,3 +1,0 @@
-This is the main branch test file
-Adding more content to main branch filegit log --oneline --graph –-allgit log --oneline --graph –-allgit log --oneline --graph –-all
-Adding more content to main branch file
